@@ -11,3 +11,5 @@ def index() :
     return jsonify(data_dict)
 def testValue() :
     return 20
+def testValue2() :
+    return 32
